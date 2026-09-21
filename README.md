@@ -1,3 +1,3 @@
-# led-project
+# LED-야구 게임
 
-## summery
+## 숫자 야구 게임이란??
